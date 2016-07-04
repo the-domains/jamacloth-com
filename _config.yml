@@ -1,0 +1,28 @@
+name: jamacloth.com
+favicon: null
+layout_spectrum: 0.7636992142070085
+typography_spectrum: 0.4349920835811645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9409726562444121
+  lightness: 0.6959876122418791
+  saturation: 0.8483509568031877
+  rhythmicContrast: 0.8138740120921284
+purpose: []
